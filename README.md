@@ -1,5 +1,19 @@
-## Hi there 👋
+## Ola 👋
 
+###### Sobre o Moreno
+Sou um profissional em transicao de carreira, em junho de 2024 decidi sair da minha sona de conforto e das aventuras da sala de aula e me voltar para a carreira de desenvolvedor, com isso me debrucei diretamenbte a aprender li guagem de programcao e desenvolvimento tanto back quanto front end 
+
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morenodev085_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morenodev085&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/pedrobrocaldi/)
 <!--
 **Morenodev085/Morenodev085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
