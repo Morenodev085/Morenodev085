@@ -10,7 +10,7 @@ Sou um profissional em transicao de carreira, em junho de 2024 decidi sair da mi
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morenodev085&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morenodev085&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
