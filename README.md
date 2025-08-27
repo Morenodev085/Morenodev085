@@ -26,11 +26,6 @@ Sou um profissional em transição de carreira. Em junho de 2024, decidi sair da
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<a href="https://github.com/Morenodev085">
-  <img src="https://github.com/Morenodev085/Morenodev085/raw/output/github-contribution-grid-snake.svg" />
-</a>
-
-
 
 ### Contatos
 
