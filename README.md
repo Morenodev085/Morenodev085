@@ -10,6 +10,7 @@ Sou um profissional em transição de carreira. Em junho de 2024, decidi sair da
 ### Projetos
 
 [![Projeto AcervoEmCena](https://github-readme-stats.vercel.app/api/pin/?username=Morenodev085&repo=acervoEmCena&theme=dark)](https://github.com/Morenodev085/acervoEmCena)
+[![Projeto AcervoEmCena](https://github-readme-stats.vercel.app/api/pin/?username=Morenodev085&repo=acervoEmCena&theme=dark)](https://github.com/Morenodev085/acervoEmCena)
 
 
 ### Linguagens utilizadas
