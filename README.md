@@ -30,3 +30,9 @@ Sou um profissional em transição de carreira. Em junho de 2024, decidi sair da
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/morenoalmeida)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Morenodev085/Morenodev085/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Morenodev085/Morenodev085/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Morenodev085/Morenodev085/output/pacman-contribution-graph.svg">
+</picture>
