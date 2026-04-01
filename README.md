@@ -1,15 +1,14 @@
 ## Olá! Eu sou o Moreno 👋
 
 ### 👨‍💻 Sobre mim
-Sou um profissional em **transição de carreira para a área de tecnologia**.  
-Em junho de 2024, decidi sair da zona de conforto e das aventuras da sala de aula para me dedicar ao desenvolvimento de software.
+Sou um profissional em **transição de carreira para a área de tecnologia**, vindo da área de Biociências (UFRJ). Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-Desde então, venho me aprofundando no aprendizado de **linguagens de programação** e no desenvolvimento de aplicações **front-end e back-end**, sempre buscando evoluir minhas habilidades e construir projetos práticos.
+Desde 2024, venho me dedicando ao desenvolvimento de software, com foco em construir aplicações robustas tanto no **Front-end (React)** quanto no **Back-end (Java)**. Busco sempre aplicar boas práticas de desenvolvimento, testes unitários e integração com bancos de dados.
 
 ---
 
 ### 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morenodev085&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morenodev085&show_icons=true&theme=dark)
 
 ---
 
@@ -21,18 +20,21 @@ Desde então, venho me aprofundando no aprendizado de **linguagens de programaç
 
 ---
 
-### 🧠 Linguagens mais utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morenodev085&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Tecnologias e Ferramentas
 
----
-
-### 🛠️ Tecnologias
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Front-end:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Back-end & DB:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Testes & Outros:**
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -41,7 +43,7 @@ Desde então, venho me aprofundando no aprendizado de **linguagens de programaç
 
 ---
 
-📌 **Atualmente em busca da primeira oportunidade como desenvolvedor front-end / full stack.**
+📌 **Atualmente focado em Java/Jakarta EE e em busca da primeira oportunidade como desenvolvedor.**
 
 ---
 
