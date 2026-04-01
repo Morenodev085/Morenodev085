@@ -14,9 +14,9 @@ Desde 2024, venho me dedicando ao desenvolvimento de software, com foco em const
 
 ### 🚀 Projetos em destaque
 
-[![Projeto AcervoEmCena](https://github-readme-stats.vercel.app/api/pin/?username=Morenodev085&repo=acervoEmCena&theme=dark)](https://github.com/Morenodev085/acervoEmCena)
+* [![Projeto AcervoEmCena](https://github-readme-stats.vercel.app/api/pin/?username=Morenodev085&repo=acervoEmCena&theme=dark)](https://github.com/Morenodev085/acervoEmCena)
 
-[![Projeto Efood](https://github-readme-stats.vercel.app/api/pin/?username=Morenodev085&repo=Efood&theme=dark)](https://github.com/Morenodev085/Efood)
+* [![Projeto Efood](https://github-readme-stats.vercel.app/api/pin/?username=Morenodev085&repo=Efood&theme=dark)](https://github.com/Morenodev085/Efood)
 
 ---
 
